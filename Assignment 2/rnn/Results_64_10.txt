@@ -1,0 +1,43 @@
+[
+  "Training Results:"
+]{
+  "64": [
+    1,
+    {
+      "epoch": 1,
+      "loss": 1.5988863706588745,
+      "accuracy": 0.2154375
+    },
+    [
+      2,
+      {
+        "epoch": 2,
+        "loss": 1.621014952659607,
+        "accuracy": 0.229125
+      }
+    ]
+  ]
+}[
+  "Validation Results:"
+]{
+  "64": [
+    2,
+    {
+      "epoch": 1,
+      "accuracy": 0.365,
+      "hidden_dim": 64
+    },
+    [
+      3,
+      {
+        "epoch": 2,
+        "accuracy": 0.365,
+        "hidden_dim": 64
+      }
+    ]
+  ]
+}[
+  "Testing Results:"
+][
+  0.38875
+]

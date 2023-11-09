@@ -1,0 +1,191 @@
+[
+  "Training Results:"
+]{
+  "15": [
+    1,
+    {
+      "epoch": 1,
+      "loss": 0.7459861040115356,
+      "accuracy": 0.52575,
+      "time taken": 14.5
+    },
+    [
+      2,
+      {
+        "epoch": 2,
+        "loss": 1.0412418842315674,
+        "accuracy": 0.5775,
+        "time taken": 16.13
+      }
+    ],
+    [
+      3,
+      {
+        "epoch": 3,
+        "loss": 0.957503616809845,
+        "accuracy": 0.610375,
+        "time taken": 18.54
+      }
+    ],
+    [
+      4,
+      {
+        "epoch": 4,
+        "loss": 1.010225772857666,
+        "accuracy": 0.636625,
+        "time taken": 18.96
+      }
+    ],
+    [
+      5,
+      {
+        "epoch": 5,
+        "loss": 0.52713942527771,
+        "accuracy": 0.64825,
+        "time taken": 20.52
+      }
+    ],
+    [
+      6,
+      {
+        "epoch": 6,
+        "loss": 0.42317795753479004,
+        "accuracy": 0.689125,
+        "time taken": 19.64
+      }
+    ],
+    [
+      7,
+      {
+        "epoch": 7,
+        "loss": 0.6360675692558289,
+        "accuracy": 0.708625,
+        "time taken": 19.98
+      }
+    ],
+    [
+      8,
+      {
+        "epoch": 8,
+        "loss": 0.6023051738739014,
+        "accuracy": 0.704,
+        "time taken": 18.63
+      }
+    ],
+    [
+      9,
+      {
+        "epoch": 9,
+        "loss": 0.592048704624176,
+        "accuracy": 0.74175,
+        "time taken": 18.14
+      }
+    ],
+    [
+      10,
+      {
+        "epoch": 10,
+        "loss": 0.39725494384765625,
+        "accuracy": 0.764,
+        "time taken": 18.38
+      }
+    ]
+  ]
+}[
+  "Validation Results:"
+]{
+  "15": [
+    1,
+    {
+      "epoch": 1,
+      "accuracy": 0.545,
+      "loss": 1.235315203666687,
+      "time taken": 0.53
+    },
+    [
+      2,
+      {
+        "epoch": 2,
+        "accuracy": 0.59,
+        "loss": 1.1646108627319336,
+        "time taken": 0.55
+      }
+    ],
+    [
+      3,
+      {
+        "epoch": 3,
+        "accuracy": 0.58,
+        "loss": 0.4904758632183075,
+        "time taken": 0.43
+      }
+    ],
+    [
+      4,
+      {
+        "epoch": 4,
+        "accuracy": 0.5825,
+        "loss": 1.0443331003189087,
+        "time taken": 0.44
+      }
+    ],
+    [
+      5,
+      {
+        "epoch": 5,
+        "accuracy": 0.61125,
+        "loss": 0.5384172797203064,
+        "time taken": 0.47
+      }
+    ],
+    [
+      6,
+      {
+        "epoch": 6,
+        "accuracy": 0.61875,
+        "loss": 0.7182149887084961,
+        "time taken": 0.45
+      }
+    ],
+    [
+      7,
+      {
+        "epoch": 7,
+        "accuracy": 0.58,
+        "loss": 0.6011268496513367,
+        "time taken": 0.53
+      }
+    ],
+    [
+      8,
+      {
+        "epoch": 8,
+        "accuracy": 0.6025,
+        "loss": 0.3790000081062317,
+        "time taken": 0.44
+      }
+    ],
+    [
+      9,
+      {
+        "epoch": 9,
+        "accuracy": 0.5425,
+        "loss": 2.2112209796905518,
+        "time taken": 0.43
+      }
+    ],
+    [
+      10,
+      {
+        "epoch": 10,
+        "accuracy": 0.6025,
+        "loss": 0.8390007019042969,
+        "time taken": 0.54
+      }
+    ]
+  ]
+}[
+  "Testing Results:"
+][
+  0.0875
+]

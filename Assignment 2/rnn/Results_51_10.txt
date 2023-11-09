@@ -1,0 +1,85 @@
+[
+  "Training Results:"
+]{
+  "51": [
+    1,
+    {
+      "epoch": 1,
+      "loss": 1.8412810564041138,
+      "accuracy": 0.216625
+    },
+    [
+      2,
+      {
+        "epoch": 2,
+        "loss": 1.560076355934143,
+        "accuracy": 0.242
+      }
+    ]
+  ]
+}[
+  "Validation Results:"
+]{
+  "51": [
+    2,
+    {
+      "epoch": 1,
+      "accuracy": 0.4225,
+      "hidden_dim": 51
+    },
+    [
+      3,
+      {
+        "epoch": 2,
+        "accuracy": 0.4225,
+        "hidden_dim": 51
+      }
+    ]
+  ]
+}[
+  "Testing Results:"
+][
+  0.28375
+][
+  "Training Results:"
+]{
+  "51": [
+    1,
+    {
+      "epoch": 1,
+      "loss": 1.5188581943511963,
+      "accuracy": 0.2305
+    },
+    [
+      2,
+      {
+        "epoch": 2,
+        "loss": 1.5192070007324219,
+        "accuracy": 0.24475
+      }
+    ]
+  ]
+}[
+  "Validation Results:"
+]{
+  "51": [
+    2,
+    {
+      "epoch": 1,
+      "accuracy": 0.3925,
+      "hidden_dim": 51
+    },
+    [
+      3,
+      {
+        "epoch": 2,
+        "accuracy": 0.3925,
+        "hidden_dim": 51
+      }
+    ]
+  ]
+}[
+  "Testing Results:"
+][
+  0.3325
+]

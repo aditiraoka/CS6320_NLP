@@ -1,0 +1,171 @@
+[
+  "Training Results:"
+]{
+  "25": [
+    1,
+    {
+      "epoch": 1,
+      "loss": 1.5921543836593628,
+      "accuracy": 0.23975
+    },
+    [
+      2,
+      {
+        "epoch": 2,
+        "loss": 1.67289137840271,
+        "accuracy": 0.2594375
+      }
+    ],
+    [
+      3,
+      {
+        "epoch": 3,
+        "loss": 1.5740927457809448,
+        "accuracy": 0.2524375
+      }
+    ],
+    [
+      4,
+      {
+        "epoch": 4,
+        "loss": 1.584006428718567,
+        "accuracy": 0.2509375
+      }
+    ],
+    [
+      5,
+      {
+        "epoch": 5,
+        "loss": 1.5966768264770508,
+        "accuracy": 0.244625
+      }
+    ],
+    [
+      6,
+      {
+        "epoch": 6,
+        "loss": 1.4919668436050415,
+        "accuracy": 0.2481875
+      }
+    ],
+    [
+      7,
+      {
+        "epoch": 7,
+        "loss": 1.658808708190918,
+        "accuracy": 0.2784375
+      }
+    ],
+    [
+      8,
+      {
+        "epoch": 8,
+        "loss": 1.5140572786331177,
+        "accuracy": 0.249125
+      }
+    ],
+    [
+      9,
+      {
+        "epoch": 9,
+        "loss": 1.3121124505996704,
+        "accuracy": 0.245
+      }
+    ],
+    [
+      10,
+      {
+        "epoch": 10,
+        "loss": 1.5059789419174194,
+        "accuracy": 0.263625
+      }
+    ]
+  ]
+}[
+  "Validation Results:"
+]{
+  "25": [
+    2,
+    {
+      "epoch": 1,
+      "accuracy": 0.065,
+      "hidden_dim": 25
+    },
+    [
+      3,
+      {
+        "epoch": 2,
+        "accuracy": 0.16125,
+        "hidden_dim": 25
+      }
+    ],
+    [
+      4,
+      {
+        "epoch": 3,
+        "accuracy": 0.17,
+        "hidden_dim": 25
+      }
+    ],
+    [
+      5,
+      {
+        "epoch": 4,
+        "accuracy": 0.08875,
+        "hidden_dim": 25
+      }
+    ],
+    [
+      6,
+      {
+        "epoch": 5,
+        "accuracy": 0.27125,
+        "hidden_dim": 25
+      }
+    ],
+    [
+      7,
+      {
+        "epoch": 6,
+        "accuracy": 0.27625,
+        "hidden_dim": 25
+      }
+    ],
+    [
+      8,
+      {
+        "epoch": 7,
+        "accuracy": 0.355,
+        "hidden_dim": 25
+      }
+    ],
+    [
+      9,
+      {
+        "epoch": 8,
+        "accuracy": 0.285,
+        "hidden_dim": 25
+      }
+    ],
+    [
+      10,
+      {
+        "epoch": 9,
+        "accuracy": 0.38625,
+        "hidden_dim": 25
+      }
+    ],
+    [
+      11,
+      {
+        "epoch": 10,
+        "accuracy": 0.38625,
+        "hidden_dim": 25
+      }
+    ]
+  ]
+}[
+  "Testing Results:"
+][
+  0.23
+]
